@@ -1,0 +1,7 @@
+Q. What are semantic HTML elements? Provide examples of three semantic tags and explain their significance.
+Ans. Semantic HTML elements clearly describe their meaning and role in the document. 
+
+Examples include:
+    * <header>: Represents the introductory section or navigation links.
+    * <article>: Represents a standalone piece of content, like a blog post.
+    * <footer>: Represents the bottom section of a page, often for copyright or contact info.

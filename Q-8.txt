@@ -1,0 +1,9 @@
+Q. What are HTML attributes, and how do they modify elements? 
+Ans. HTML attributes provide additional information about HTML elements, modifying their behavior or appearance. 
+They are added to elements within the opening tag and are written as key-value pairs.
+
+For example:
+        <input type="text" placeholder="Enter your name">
+
+        * type="text": Specifies the input type (text box).
+        * placeholder="Enter your name": Provides placeholder text when the input is empty.

@@ -1,0 +1,6 @@
+Q. What is the difference between block-level and inline elements in HTML? Provide examples.
+Ans. * Block-level elements: Occupy the full width of their container and start on a new line.
+        Examples: <div>, <p>, <section>
+
+    * Inline elements: Only take up as much width as necessary and stay in the same line.
+        Examples: <span>, <a>, <img>

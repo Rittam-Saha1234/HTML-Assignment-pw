@@ -1,0 +1,7 @@
+Q. Give an example of an HTML tag with attributes.
+Ans. Here’s an example of an HTML tag with attributes:
+        * <img src="image.jpg" alt="Description of image" width="500" height="300">
+        * src="image.jpg": Specifies the image source.
+        * alt="Description of image": Provides an alternative text for the image.
+        * width="500": Sets the width of the image.
+        * height="300": Sets the height of the image.

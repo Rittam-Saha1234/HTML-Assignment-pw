@@ -1,0 +1,6 @@
+Q.  Explain the difference between <div> and <span> elements in HTML. When would you use each?
+Ans. <div>: A block-level element used to group larger sections of content.
+Use case: Layout and structure, like wrapping multiple paragraphs or sections.
+
+<span>: An inline element used to style or group smaller text parts.
+Use case: Styling specific words or phrases within a line.

@@ -1,0 +1,6 @@
+Q.  What is the purpose of the alt attribute in the <img> tag? Why is it important for accessibility and SEO?
+Ans. The alt attribute in the <img> tag provides a text description of the image.
+
+    *Accessibility: Helps screen readers convey image information to visually impaired users.
+    *SEO: Improves search engine indexing and ranks images in search results.
+    *Fallback: Displays text if the image fails to load.

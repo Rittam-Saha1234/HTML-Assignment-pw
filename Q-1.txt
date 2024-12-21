@@ -1,0 +1,3 @@
+Q.  What is HTML? Explain its purpose in web development.
+Ans. HTML (HyperText Markup Language) is the standard language for creating web pages. 
+Its purpose is to structure content on the web using elements like headings, paragraphs, links, images, and more.

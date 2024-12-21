@@ -1,0 +1,10 @@
+Q. What is the difference between an absolute URL and a relative URL in HTML? Provide an example of each
+Ans. Absolute URL: Specifies the full path to a resource, including the domain name.
+
+Example:
+    <a href="https://www.example.com/page.html">Visit Example</a>
+
+Relative URL: Specifies a path relative to the current page or domain.
+
+Example:
+    <a href="page.html">Visit Page</a>
